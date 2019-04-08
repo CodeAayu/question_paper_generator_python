@@ -1,0 +1,1 @@
+10,Q1,easy,1,Q2,easy,2,Q3,medium,2,Q4,hard,9,Q5,easy,3,Q6,hard,7,Q7,medium,3,Q8,easy,3,Q9,medium,5,Q10,hard,5,20,easy 25,medium 50,hard 25
